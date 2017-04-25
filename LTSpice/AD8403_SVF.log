@@ -1,9 +1,12 @@
-Circuit: * D:\Users\gizmo\Desktop\SVF_AD8403\LTSpice\AD8403_SVF.asc
+Circuit: * D:\Users\gizmo\Documents\Develop\SVF_AD8403\LTSpice\AD8403_SVF.asc
 
 Direct Newton iteration for .op point succeeded.
+.step rq=1000
+.step rq=5000
+.step rq=9000
 
-Date: Wed Apr 19 22:17:35 2017
-Total elapsed time: 0.031 seconds.
+Date: Sat Apr 22 13:16:32 2017
+Total elapsed time: 0.027 seconds.
 
 tnom = 27
 temp = 27
