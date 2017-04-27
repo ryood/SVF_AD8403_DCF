@@ -1,0 +1,26 @@
+Circuit: * D:\Users\gizmo\Documents\Develop\SVF_AD8403\LTSpice\SVF_sim_VGND.asc
+
+Limiting fall time of source v1 to 4.16334e-018
+Direct Newton iteration for .op point succeeded.
+.step rq=2000
+.step rq=50000
+.step rq=100000
+
+Date: Tue Apr 25 19:47:22 2017
+Total elapsed time: 0.381 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4898
+traniter = 4895
+tranpoints = 2407
+accept = 1805
+rejected = 602
+matrix size = 19
+fillins = 23
+solver = Normal
+Matrix Compiler1: 2.20 KB object code size  0.6/0.3/[0.1]
+Matrix Compiler2: 2.43 KB object code size  0.2/0.3/[0.1]
+
+
